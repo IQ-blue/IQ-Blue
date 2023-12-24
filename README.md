@@ -19,9 +19,9 @@ Welcome to the IQ-Blue Github profile.
 
 ### About
 
-IQ-Blue is a Business Intelligence & Risk Management consulting enterprise.
+IQ-Blue is an Integrated Systems and information management consulting enterprise, who will guide you through the process of enhancing your business by establishing an information management capacity and intelligence capability.
 
-We will guide you through the process of capacitating your business in establishing an intelligence capacity by laying a firm foundation on which your business will grow into a multidimensional organization capable of dealing with threats of the present & future.
+We lay a firm foundation on which your business can grow into a multidimensional organisation capable of better dealing with threats of the present & future.
 
 <!--
 **IQ-blue/IQ-Blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
